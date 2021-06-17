@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/_dlizcano)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/dlizcano)
 [![Linkedin: d-lizcano](https://img.shields.io/badge/-Diego%20Lizcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizcano/)](https://www.linkedin.com/in/lizcano/)
 
 My name is Diego J. Lizcano (he/him). I'm a biologist from Colombia. I'm working mostly with R. I love Open-Source, also to teach and learn! I'm a passionate photographer sharing pictures in my [Instagram account](https://www.instagram.com/walking_tapir/) and sometimes [posting in my blog](http://dlizcano.github.io/posts/)
