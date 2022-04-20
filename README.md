@@ -12,6 +12,7 @@ My name is Diego J. Lizcano (he/him). I'm a biologist from Colombia. I'm working
 - 💬 Ask me about Tapirs, my favourite species!
 - 📫 How to reach me: [@dlizcano](https://twitter.com/_dlizcano)
 - ⚡ Fun fact: I ❤️ 🐶s
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I780GIS)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlizcano)](https://github.com/anuraghazra/github-readme-stats)
 
