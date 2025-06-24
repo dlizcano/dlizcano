@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/dlizcano)
 [![Linkedin: d-lizcano](https://img.shields.io/badge/-Diego%20Lizcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizcano/)](https://www.linkedin.com/in/lizcano/)
 
-My name is Diego J. Lizcano (he/him). I'm a biologist from Colombia. I'm working mostly with R. I love Open-Source, and also teaching and learning! I'm a passionate photographer sharing pictures on my [Instagram account](https://www.instagram.com/walking_tapir/) and sometimes [posting on my blog](http://dlizcano.github.io/posts/)
+My name is Diego J. Lizcano (he/him). I'm a biologist from Colombia. I'm working mostly with R. I love Open-Source and teaching and learning! I'm a passionate photographer sharing pictures on my [Instagram account](https://www.instagram.com/walking_tapir/) and sometimes [posting on my blog](https://dlizcano.github.io/year-archive/)
 
 - 🔭 I’m currently working for the WCS Amazon-Andes-Orinoco region, on camera trapping data analysis  
 - 🌱 I’m currently learning about soundscape analysis
